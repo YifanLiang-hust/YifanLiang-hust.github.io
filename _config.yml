@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "YifanLiang-hust"
-description              : "Acadamic Homepage of YifanLiang-hust "
+description              : "Academic Homepage of YifanLiang-hust"
 repository               : "YifanLiang-hust/YifanLiang-hust.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=Ue98P8IAAAAJ&hl=zh-CN"
   email            : "yfl@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "一凡-梁-688923367"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,6 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/gui-huo-shao-nu-bu-lang-ya-31"
+  bilibili         : "https://space.bilibili.com/108433619?spm_id_from=333.1369.0.0"
 
 
 # Reading Files

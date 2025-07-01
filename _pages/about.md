@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About me 
+
 I am Yifan Liang, a graduate student pursuing M.S. in Intelligent Science and Technology at the School of Artificial Intelligence and Automation(AIA), Huazhong University of Science and Technology (HUST). I graduated with honors from HUST in 2025, receiving the Outstanding Undergraduate Thesis Award and being recognized as an Honored Graduate.
 
 My research interests focus on computer vision and machine learning, particularly in vision-language models(VLMs) and out-of-distribution(OOD) detection. I am passionate about developing robust AI systems that can handle real-world challenges and uncertainties.
