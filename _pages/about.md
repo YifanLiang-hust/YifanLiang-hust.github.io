@@ -46,7 +46,11 @@ I have published research at top-tier AI conferences, including a **Highlight pa
 
 [Overcoming Shortcut Problem in VLM for Robust Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf)
 
-Xu Zhuo, Xiang Xiang, **Yifan Liang**.
+Xu Zhuo<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
+
+<sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology  
+<sup>*</sup>Equal contribution  
+<sup>†</sup>Corresponding author
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='Ue98P8IAAAAJ:d1gkVwhDpl0C'></span></strong> | [**Project**](https://haiv-lab.github.io/OSPCoOp-CVPR25-HighLight.github.io/) | [**Code**](https://github.com/HAIV-Lab/OSPCoOp_Imagenet-bg)| [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/imagenet-bg-ospcoop-cvpr2025)
 - **Highlight Paper** (top 2.98%) at CVPR 2025. This work addresses the shortcut problem in VLMs for robust OOD detection and propose a new OOD dataset ImageNet-Bg.
