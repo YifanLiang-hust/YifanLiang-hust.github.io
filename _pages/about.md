@@ -23,6 +23,14 @@ My research interests focus on computer vision and machine learning, particularl
 
 I have published research at top-tier AI conferences, including a **Highlight paper** at CVPR 2025 (top 2.98%), which addresses the shortcut problem in VLMs for robust OOD detection. I was also awarded the National First Prize in the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition.
 
+# �📖 Educations
+- *2021.09 - 2025.06*, B.S. in **Artificial Intelligence** @ AIA, HUST, Wuhan, China. 
+- *2025.09 - 2028.06 (expected)*, M.S. in **Intelligent Science and Technology** @ AIA, HUST, Wuhan, China. 
+
+# 🎖 Honors and Awards
+- *2024.11* National First Prize of the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition
+- *2025.06* Honored Graduate of HUST
+- *2025.06* Outstanding Undergraduate Thesis of HUST
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I was awarded **Honored Graduate** and **Outstanding Undergraduate Thesis** by HUST.
@@ -38,19 +46,28 @@ I have published research at top-tier AI conferences, including a **Highlight pa
 
 Xu Zhuo, Xiang Xiang, **Yifan Liang**.
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='Ue98P8IAAAAJ:d1gkVwhDpl0C'></span></strong> | [**Project**]([PROJECT_PAGE_LINK_HERE](https://haiv-lab.github.io/OSPCoOp-CVPR25-HighLight.github.io/)) | [**Code**](https://github.com/HAIV-Lab/OSPCoOp_Imagenet-bg)| [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/imagenet-bg-ospcoop-cvpr2025)
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='Ue98P8IAAAAJ:d1gkVwhDpl0C'></span></strong> | [**Project**](https://haiv-lab.github.io/OSPCoOp-CVPR25-HighLight.github.io/) | [**Code**](https://github.com/HAIV-Lab/OSPCoOp_Imagenet-bg)| [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/imagenet-bg-ospcoop-cvpr2025)
 - **Highlight Paper** (top 2.98%) at CVPR 2025. This work addresses the shortcut problem in VLMs for robust OOD detection and propose a new OOD dataset ImageNet-Bg.
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2024.11* National First Prize of the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition
-- *2025.06* Honored Graduate of HUST
-- *2025.06* Outstanding Undergraduate Thesis of HUST
+# 🚀 Projects
 
-# 📖 Educations
-- *2021.09 - 2025.06*, B.S. in **Artificial Intelligence** @ AIA, HUST, Wuhan, China. 
-- *2025.09 - 2028.06 (expected)*, M.S. in **Intelligent Science and Technology** @ AIA, HUST, Wuhan, China.  
+## 2025 Advanced Machine Learning Course Project: CLIP-based Few-shot OOD Detection
+- **Description**: Focused on CLIP-based few-shot OOD detection, implementing various prompt learning methods including CoOp, LoCoOp, and SCT.
+- **Technologies**: CLIP, Prompt Learning, OOD Detection
+- **Highlights**: 
+  - Implemented and improved three different prompt learning methods for OOD detection
+  - Achieved significant improvements in AUROC and FPR95 compared to baseline on ImageNet OOD Benchmark
+- **Links**: [Code](https://github.com/YifanLiang-hust/Advanced_ML_Final_Project)
+
+## 2024 NLP Course Project: Multi-modal Image Description with MiniCPM-V
+- **Description**: Implementing image description generation using MiniCPM-V model with both LoRA and full fine-tuning approaches.
+- **Technologies**: MLLM, LoRA, Gradio
+- **Highlights**: 
+  - Implemented both LoRA and full fine-tuning strategies on MiniCPM-V
+  - Created interactive web demo for real-time image description generation
+- **Links**: [Code](https://github.com/YifanLiang-hust/NLP_Final_Project)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
