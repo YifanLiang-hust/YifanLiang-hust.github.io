@@ -25,7 +25,7 @@ My research interests focus on computer vision and machine learning, particularl
 
 I have published research at top-tier AI conferences, including a **Highlight paper** at CVPR 2025 (top 2.98%), which addresses the shortcut problem in VLMs for robust OOD detection. I was also awarded the National First Prize in the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition.
 
-# �📖 Educations
+# 📖 Educations
 - *2021.09 - 2025.06*, B.S. in **Artificial Intelligence** @ AIA, HUST, Wuhan, China. 
 - *2025.09 - 2028.06 (expected)*, M.S. in **Intelligent Science and Technology** @ AIA, HUST, Wuhan, China. 
 
