@@ -40,7 +40,7 @@ I have published research at top-tier AI conferences, including a **Highlight pa
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/OES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/OES.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing](https://arxiv.org/pdf/2502.20668)
@@ -52,7 +52,7 @@ Xiang Xiang<sup>1†</sup>, Zhuo Xu<sup>1</sup>, Yao Deng<sup>1</sup>, Qinhao Zh
 <sup>3</sup>Chinese Academy of Sciences, Beijing, China
 <sup>†</sup>Corresponding author
 
-[**Paper**](https://arxiv.org/abs/2502.20668) | [**Project**](https://haiv-lab.github.io/OES/) | [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/openearthsensing-oes)
+[**Paper**](https://arxiv.org/abs/2502.20668) &#124; [**Project**](https://haiv-lab.github.io/OES/) &#124; [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/openearthsensing-oes)
 
 - Submission to **IJCV**. This work proposes a large-scale fine-grained open-world remote-sensing datasets and benchmark **OpenEarthSensing(OES)**, which supports evaluation on multiple tasks including ***Out-of-Distribution Detection***, ***Class-Incremental Learning***, ***Coarse-to-Fine Few-Shot Class-Incremental Learning*** and ***Domain-Incremental Learning***. 
 </div>
@@ -95,7 +95,7 @@ Zhuo Xu<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
     - Flexible evaluation metrics
     - Comprehensive logging and monitoring
   
-- **Links**: [Code](https://github.com/HAIV-Lab/openhaiv) | [Doc](https://yifanliang-hust.github.io/ncdia/)
+- **Links**: [Code](https://github.com/HAIV-Lab/openhaiv) &#124; [Doc](https://yifanliang-hust.github.io/ncdia/)
 
 ## 2025 Advanced Machine Learning Course Project: CLIP-based Few-shot OOD Detection
 - **Description**: Focused on CLIP-based few-shot OOD detection, implementing various prompt learning methods including CoOp, LoCoOp, and SCT.
