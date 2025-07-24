@@ -100,7 +100,7 @@ Zhuo Xu<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
     - Flexible evaluation metrics
     - Comprehensive logging and monitoring
   
-- **Links**: [Code](https://github.com/HAIV-Lab/openhaiv) &#124; [Doc](https://yifanliang-hust.github.io/ncdia/)
+- **Links**: [**Code**](https://github.com/HAIV-Lab/openhaiv) &#124; [**Doc**](https://yifanliang-hust.github.io/ncdia/)
 
 ## 2025 Advanced Machine Learning Course Project: CLIP-based Few-shot OOD Detection
 - **Description**: Focused on CLIP-based few-shot OOD detection, implementing various prompt learning methods including CoOp, LoCoOp, and SCT.
@@ -108,7 +108,7 @@ Zhuo Xu<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
 - **Highlights**: 
   - Implemented and improved three different prompt learning methods for OOD detection
   - Achieved significant improvements in AUROC and FPR95 compared to baseline on ImageNet OOD Benchmark
-- **Links**: [Code](https://github.com/YifanLiang-hust/Advanced_ML_Final_Project)
+- **Links**: [**Code**](https://github.com/YifanLiang-hust/Advanced_ML_Final_Project)
 
 ## 2024 NLP Course Project: Multi-modal Image Description with MiniCPM-V
 - **Description**: Implementing image description generation using MiniCPM-V model with both LoRA and full fine-tuning approaches.
@@ -116,7 +116,7 @@ Zhuo Xu<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
 - **Highlights**: 
   - Implemented both LoRA and full fine-tuning strategies on MiniCPM-V
   - Created interactive web demo for real-time image description generation
-- **Links**: [Code](https://github.com/YifanLiang-hust/NLP_Final_Project)
+- **Links**: [**Code**](https://github.com/YifanLiang-hust/NLP_Final_Project)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
