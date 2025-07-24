@@ -19,11 +19,11 @@ redirect_from:
 
 # 👋 About me 
 
-I am Yifan Liang, a graduate student pursuing M.S. in Intelligent Science and Technology at ![AIA](../assets/icons/aia.png){width="18" style="vertical-align:middle;"}School of Artificial Intelligence and Automation(AIA), ![HUST](../assets/icons/hust.png){width="18" style="vertical-align:middle;"}Huazhong University of Science and Technology (HUST). I graduated with honors from HUST in 2025, receiving the Outstanding Undergraduate Thesis Award and being recognized as an Honored Graduate.
+I am Yifan Liang, a graduate student pursuing M.S. in Intelligent Science and Technology at <img src="../assets/icons/aia.png" alt="AIA" width="18" style="vertical-align:middle;">School of Artificial Intelligence and Automation (AIA), <img src="../assets/icons/hust.png" alt="HUST" width="18" style="vertical-align:middle;">Huazhong University of Science and Technology (HUST). I graduated with honors from HUST in 2025, receiving the Outstanding Undergraduate Thesis Award and being recognized as an Honored Graduate.
 
 My research interests focus on computer vision and machine learning, particularly in vision-language models(VLMs) and out-of-distribution(OOD) detection. I am passionate about developing robust AI systems that can handle real-world challenges and uncertainties.
 
-I have published research at top-tier AI conferences, including a **Highlight paper** at CVPR 2025 (top 2.98%), which addresses the shortcut problem in VLMs for robust OOD detection. I was also awarded the National First Prize in the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition.
+I have published research at top-tier AI conferences, including a **Highlight paper @ CVPR 2025**  (top 2.98%), which addresses the shortcut problem in VLMs for robust OOD detection. I was also awarded the National First Prize in the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition.
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.S. in **Artificial Intelligence** @ AIA, HUST, Wuhan, China. 
@@ -36,11 +36,11 @@ I have published research at top-tier AI conferences, including a **Highlight pa
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I was awarded **Honored Graduate** and **Outstanding Undergraduate Thesis** by HUST.
-- *2025.03*: &nbsp;🎉🎉 One paper has been selected as a **Highlight** (top 2.98%) at CVPR 2025.
+- *2025.03*: &nbsp;🎉🎉 One paper has been selected as a **Highlight @ CVPR 2025** (top 2.98%) .
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/OES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/OES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing](https://arxiv.org/pdf/2502.20668)
@@ -54,7 +54,7 @@ Xiang Xiang<sup>1†</sup>, Zhuo Xu<sup>1</sup>, Yao Deng<sup>1</sup>, Qinhao Zh
 
 [**Paper**](https://arxiv.org/abs/2502.20668) | [**Project**](https://haiv-lab.github.io/OES/) | [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/openearthsensing-oes)
 
-- Submission to **IJCV**. This work proposes a large-scale fine-grained open-world remote-sensing datasets and benchmark **OpenEarthSensing(OES)**, which supports evaluation on multiple tasks including *Out-of-Distribution Detection*, *Class-Incremental Learning*, *Coarse-to-Fine Few-Shot Class-Incremental Learning* and *Domain-Incremental Learning*. 
+- Submission to **IJCV**. This work proposes a large-scale fine-grained open-world remote-sensing datasets and benchmark **OpenEarthSensing(OES)**, which supports evaluation on multiple tasks including ***Out-of-Distribution Detection***, ***Class-Incremental Learning***, ***Coarse-to-Fine Few-Shot Class-Incremental Learning*** and ***Domain-Incremental Learning***. 
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Zhuo Xu<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
 # 🚀 Projects
 
 ## OpenHAIV : A Framework Towards Practical Open-World Learning
-- **Description**: This is a framework for open-world object recognition, supporting *out-of-distribution detection*, *novel class discovery*, and *incremental learning* algorithms to enable robust and flexible object recognition in unconstrained environments.
+- **Description**: This is a framework for open-world object recognition, supporting ***out-of-distribution detection***, ***novel class discovery***, and ***incremental learning*** algorithms to enable robust and flexible object recognition in unconstrained environments.
 <!-- - **Tech Stack**:  -->
 - **Highlights**: 
   - 🧩 **Modular Design**
