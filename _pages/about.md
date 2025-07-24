@@ -48,8 +48,11 @@ I have published research at top-tier AI conferences, including a **Highlight pa
 Xiang Xiang<sup>1†</sup>, Zhuo Xu<sup>1</sup>, Yao Deng<sup>1</sup>, Qinhao Zhou<sup>1</sup>, **Yifan Liang**<sup>1</sup>, Ke Chen<sup>2</sup>, Qingfang Zheng<sup>2</sup>, Yaowei Wang<sup>2</sup>, Xilin Chen<sup>3</sup>, Wen Gao<sup>2</sup>
 
 <sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China  
+
 <sup>2</sup>Peng Cheng Laboratory, Shenzhen, China
+
 <sup>3</sup>Chinese Academy of Sciences, Beijing, China
+
 <sup>†</sup>Corresponding author
 
 [**Paper**](https://arxiv.org/abs/2502.20668) &#124; [**Project**](https://haiv-lab.github.io/OES/) &#124; [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/openearthsensing-oes)
@@ -66,7 +69,9 @@ Xiang Xiang<sup>1†</sup>, Zhuo Xu<sup>1</sup>, Yao Deng<sup>1</sup>, Qinhao Zh
 Zhuo Xu<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
 
 <sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China  
+
 <sup>*</sup>Equal contribution  
+
 <sup>†</sup>Corresponding author
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='Ue98P8IAAAAJ:d1gkVwhDpl0C'></span></strong> | [**Project**](https://haiv-lab.github.io/OSPCoOp.github.io/) | [**Code**](https://github.com/HAIV-Lab/OSPCoOp_Imagenet-bg) | [**Dataset**](https://www.kaggle.com/datasets/xiangexiang/imagenet-bg-ospcoop-cvpr2025)
