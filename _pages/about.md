@@ -19,15 +19,15 @@ redirect_from:
 
 # 👋 About me 
 
-I am Yifan Liang, a graduate student pursuing M.S. in Intelligent Science and Technology at <img src="../assets/icons/aia.png" alt="AIA" width="18" style="vertical-align:middle;">School of Artificial Intelligence and Automation (AIA), <img src="../assets/icons/hust.png" alt="HUST" width="18" style="vertical-align:middle;">Huazhong University of Science and Technology (HUST). I graduated with honors from HUST in 2025, receiving the Outstanding Undergraduate Thesis Award and being recognized as an Honored Graduate.
+I am Yifan Liang, a graduate student pursuing M.S. in Intelligent Science and Technology at <img src="../assets/icons/aia.png" alt="AIA" width="18" style="vertical-align:middle;"> School of Artificial Intelligence and Automation (AIA), <img src="../assets/icons/hust.png" alt="HUST" width="18" style="vertical-align:middle;"> Huazhong University of Science and Technology (HUST). I graduated with honors from HUST in 2025, receiving the Outstanding Undergraduate Thesis Award and being recognized as an Honored Graduate.
 
-My research interests focus on computer vision and machine learning, particularly in vision-language models(VLMs) and out-of-distribution(OOD) detection. I am passionate about developing robust AI systems that can handle real-world challenges and uncertainties.
+My research interests focus on computer vision and machine learning, particularly in vision-language models(VLMs) and out-of-distribution (OOD) detection. I am passionate about developing robust AI systems that can handle real-world challenges and uncertainties.
 
 I have published research at top-tier AI conferences, including a **Highlight paper @ CVPR 2025**  (top 2.98%), which addresses the shortcut problem in VLMs for robust OOD detection. I was also awarded the National First Prize in the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition.
 
 # 📖 Educations
-- *2021.09 - 2025.06*, B.S. in **Artificial Intelligence** @ AIA, HUST, Wuhan, China. 
-- *2025.09 - 2028.06 (expected)*, M.S. in **Intelligent Science and Technology** @ AIA, HUST, Wuhan, China. 
+- *2021.09 - 2025.06*, B.S. in **Artificial Intelligence** @ <img src="../assets/icons/aia.png" alt="AIA" width="18" style="vertical-align:middle;"> AIA, <img src="../assets/icons/hust.png" alt="HUST" width="18" style="vertical-align:middle;"> HUST, Wuhan, China. 
+- *2025.09 - 2028.06 (expected)*, M.S. in **Intelligent Science and Technology** @ <img src="../assets/icons/aia.png" alt="AIA" width="18" style="vertical-align:middle;"> AIA, <img src="../assets/icons/hust.png" alt="HUST" width="18" style="vertical-align:middle;"> HUST, Wuhan, China. 
 
 # 🎖 Honors and Awards
 - *2024.11* National First Prize of the 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition
@@ -39,13 +39,33 @@ I have published research at top-tier AI conferences, including a **Highlight pa
 - *2025.03*: &nbsp;🎉🎉 One paper has been selected as a **Highlight @ CVPR 2025** (top 2.98%) .
 
 # 📝 Publications 
+<!-- OpenHAIV -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/OpenHAIV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[OpenHAIV: A Framework Towards Practical Open-World Learning](https://arxiv.org/pdf/2508.07270)
+
+Xiang Xiang<sup>12†</sup>, Qinhao Zhou<sup>1</sup>, Zhuo Xu<sup>1</sup>, Jing Ma<sup>1</sup>,  Jiaxin Dai<sup>1</sup>, **Yifan Liang**<sup>1</sup>, Hanlin Li<sup>1</sup>
+
+<sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China  
+
+<sup>2</sup>Peng Cheng Laboratory, Shenzhen, China
+
+<sup>†</sup>Corresponding author
+
+[**Paper**](https://arxiv.org/abs/2508.07270) &#124; [**Doc**](https://haiv-lab.github.io/openhaiv/) &#124; [**Code**](https://github.com/HAIV-Lab/openhaiv)
+
+- Submitted to **MVA**. This work presents the **OpenHAIV** framework, enabling unified evaluation across multiple tasks such as ***Out-of-Distribution Detection***, ***Novel Class Discovery***, and ***Incremental Learning***. We hope this framework can bridge the entire pipeline of open-world learning.
+</div>
+</div>
+
+<!-- OES -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/OES.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing](https://arxiv.org/pdf/2502.20668)
 
-Xiang Xiang<sup>1†</sup>, Zhuo Xu<sup>1</sup>, Yao Deng<sup>1</sup>, Qinhao Zhou<sup>1</sup>, **Yifan Liang**<sup>1</sup>, Ke Chen<sup>2</sup>, Qingfang Zheng<sup>2</sup>, Yaowei Wang<sup>2</sup>, Xilin Chen<sup>3</sup>, Wen Gao<sup>2</sup>
+Xiang Xiang<sup>12†</sup>, Zhuo Xu<sup>1</sup>, Yao Deng<sup>1</sup>, Qinhao Zhou<sup>1</sup>, **Yifan Liang**<sup>1</sup>, Ke Chen<sup>2</sup>, Qingfang Zheng<sup>2</sup>, Yaowei Wang<sup>2</sup>, Xilin Chen<sup>3</sup>, Wen Gao<sup>2</sup>
 
 <sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China  
 
@@ -61,6 +81,8 @@ Xiang Xiang<sup>1†</sup>, Zhuo Xu<sup>1</sup>, Yao Deng<sup>1</sup>, Qinhao Zh
 </div>
 </div>
 
+
+<!-- OSPCoOp -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/OSPCoOp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,21 +108,10 @@ Zhuo Xu<sup>1*</sup>, Xiang Xiang<sup>1*†</sup>, **Yifan Liang**<sup>1</sup>
 <!-- - **Tech Stack**:  -->
 - **Highlights**: 
   - 🧩 **Modular Design**
-    - Easy experimentation with different algorithms
-    - Seamless integration of new techniques
-    - Flexible deployment configurations
   - 🚀 **Scalable Architecture**
-    - Large-scale dataset processing
-    - Distributed training capabilities
-    - Efficient memory management
-    - Parallel processing optimization
   - 🔌 **Extensible Framework**
-    - Plugin-based algorithm integration
-    - Custom loss function support
-    - Flexible evaluation metrics
-    - Comprehensive logging and monitoring
   
-- **Links**: [**Code**](https://github.com/HAIV-Lab/openhaiv) &#124; [**Doc**](https://yifanliang-hust.github.io/ncdia/)
+- **Links**: [**Code**](https://github.com/HAIV-Lab/openhaiv) &#124; [**Doc**](https://haiv-lab.github.io/openhaiv/)
 
 ## 2025 Advanced Machine Learning Course Project: CLIP-based Few-shot OOD Detection
 - **Description**: Focused on CLIP-based few-shot OOD detection, implementing various prompt learning methods including CoOp, LoCoOp, and SCT.
